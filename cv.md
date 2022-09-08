@@ -14,5 +14,12 @@ Front-end is the industry where my desires and aspirations came together. The an
 
 My goal is to become a full-fledged front-end developer as soon as possible.
 
-
+### Skills & Tools
+- HTML/CSS
+- JS
+- Python
+- Emacs
+- Vi/Vim
+- VS Code
+- Figma/Photoshop
 
