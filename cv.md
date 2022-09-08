@@ -40,3 +40,7 @@ National Research University Higher School of Economics (2008)
 - CS50 course on the [edX](https://www.edx.org/cs50)
 - HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com)
 - Online Training Tools on the [HTML Academy](https://www.htmlacademy.ru/study)
+
+### Languages
+- English (B2/Upper-intermediate)
+- Russian (C2/Native)
