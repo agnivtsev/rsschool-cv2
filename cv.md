@@ -1,5 +1,5 @@
 
-# Alexander Agnivtsec
+# Alexander Agnivtsev
 ## Junior Front-end Developer
 
 ### Contact
