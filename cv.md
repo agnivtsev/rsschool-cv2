@@ -17,6 +17,7 @@ My goal is to become a full-fledged front-end developer as soon as possible.
 ### Skills & Tools
 - HTML/CSS
 - JS
+- Git
 - Python
 - Emacs
 - Vi/Vim
