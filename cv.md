@@ -24,3 +24,11 @@ My goal is to become a full-fledged front-end developer as soon as possible.
 - VS Code
 - Figma/Photoshop
 
+### Code Example
+**Will you make it? KATA frome CODEWARS (8 kyu)**: You were camping with your friends far away from home, but when it's time to go back, you realize that fuel is running out and the nearest pump is 50 miles away! You know that on average, your car runs about 25 miles per gallon. There are 2 gallons left. Considering these factorse, write a functionthat tells you if it is possible to get to the pump or not.
+```js
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+  if (distanceToPump/mpg <= fuelLeft) return true
+  else return false
+};
+```
